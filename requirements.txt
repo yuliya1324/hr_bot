@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+flask
+flask_sqlalchemy
+requests
+nltk
